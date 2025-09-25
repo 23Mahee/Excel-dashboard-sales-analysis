@@ -15,7 +15,9 @@ This project is my **first interactive dashboard in Excel**, where I analyzed th
 - KPIs for quick decision-making
 - Interactive visuals and analysis
 
-## 📂 Files
-- `Excel_Dashboard_Supermarket_Sales.xlsx` → Full interactive Excel dashboard
-- `Excel Dashboard 1.png`,`Excel Dashboard 2.png` and `Excel Dashboard 3.png`→ Preview of the dashboard
-- ``Excel_Dashboard 1.png`.mp4` → Walkthrough of the dashboard
+## 📂 Project Files
+- [📊 Download Excel Dashboard](Excel_Dashboard_Supermarket_Sales.xlsx)  
+- [🖼 Dashboard Screenshot 1](Excel%20Dashboard%201.PNG)  
+- [🖼 Dashboard Screenshot 2](Excel%20Dashboard%202.PNG)  
+- [🖼 Dashboard Screenshot 3](Excel%20Dashboard%203.PNG)  
+- [🎥 Demo Video](Excel_Dashboard.mp4) 
